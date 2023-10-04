@@ -1,10 +1,10 @@
 
-//Ne Main kemi krijmin e nje objekti te tipit FaqjaPare nga ku starton programi yne
+//In Main, we create an object of FirstPage type from where our program starts
 
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-           FaqjaPare f1=new FaqjaPare();
+		 FirstPage f1=new FirstPage();
 	}
 }
